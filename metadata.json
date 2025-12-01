@@ -1,0 +1,7 @@
+{
+  "name": "For KNTX",
+  "description": "A minimalist, real-time Thai-Japanese translator for the lazily inclined.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
